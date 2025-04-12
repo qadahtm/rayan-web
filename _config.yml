@@ -62,3 +62,9 @@ kramdown:
   hard_wrap: true
 
 goatcounter_code: rt-qadah
+
+# External API
+giscus_repo: "qadahtm/rayan-web"
+giscus_repoId: "R_kgDOOFPHQA"
+giscus_category: "Q&A"
+giscus_categoryId: "DIC_kwDOOFPHQM4CpCAF"
